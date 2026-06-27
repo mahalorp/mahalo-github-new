@@ -4,252 +4,210 @@
 
 ***
 
-### 📋 Comportamento e Interpretação <a href="#comportamento-e-interpretacao" id="comportamento-e-interpretacao"></a>
+### 📋 Comportamento e Interpretação
 
-Toda criança deverá interpretar sua idade de forma adequada e compatível com sua fase de desenvolvimento.
+Todo personagem infantil deverá interpretar sua idade de forma compatível com sua fase de desenvolvimento.
 
-RegraDescrição
+| Regra                      | Descrição                                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Interpretação Coerente** | A criança deve agir de acordo com sua idade.                                                    |
+| **Limitações de Idade**    | Deve respeitar limitações de fala, conhecimento e maturidade.                                   |
+| **Inocência**              | É proibido agir com malícia ou demonstrar conhecimentos incompatíveis com a idade interpretada. |
+| **Linguagem**              | É proibido utilizar linguagem sexual, comportamento inadequado ou excesso de palavrões.         |
+| **Relacionamentos**        | É proibido qualquer interação romântica ou flerte com personagens adultos.                      |
+| **Conteúdo Sexual**        | Qualquer ação, insinuação ou referência de cunho sexual é estritamente proibida.                |
 
-Interpretação Coerente
-
-A criança deve agir de acordo com sua idade.
-
-Limitações de Idade
-
-Respeitar limitações de fala, conhecimento e maturidade.
-
-Inocência
-
-Crianças não devem agir com malícia ou conhecimento incompatível com sua idade.
-
-Linguagem
-
-Proibido utilizar palavrões excessivos, linguagem sexual ou comportamento inadequado.
-
-Relacionamentos
-
-Proibido manter interações românticas ou flertes com adultos.
-
-Conteúdo Sexual
-
-Qualquer ação ou insinuação sexual é estritamente proibida.
+> **Importante:** A interpretação infantil deve sempre priorizar a coerência do Roleplay.
 
 ***
 
-### 🎒 Escola e Responsabilidades <a href="#escola-e-responsabilidades" id="escola-e-responsabilidades"></a>
+## 🎒 Escola e Responsabilidades
 
-RegraDescrição
-
-Frequência Escolar
-
-Obrigatória no mínimo 4 dias por semana.
-
-Responsabilidade Legal
-
-O descumprimento poderá gerar consequências jurídicas para os responsáveis.
-
-Permanência Mínima
-
-A utilização de skin infantil exige permanência mínima de 10 dias.
+| Regra                      | Descrição                                                                                     |
+| -------------------------- | --------------------------------------------------------------------------------------------- |
+| **Frequência Escolar**     | Obrigatória, no mínimo, **4 dias por semana**.                                                |
+| **Responsabilidade Legal** | O descumprimento poderá gerar consequências jurídicas aos responsáveis pela criança.          |
+| **Permanência da Skin**    | Ao optar por uma skin infantil, o jogador deverá permanecer nela por, no mínimo, **10 dias**. |
 
 ***
 
-### 🚗 Locomoção e Veículos <a href="#locomocao-e-veiculos" id="locomocao-e-veiculos"></a>
+## 🚗 Locomoção e Veículos
 
-PermitidoProibido
+### Permitido
 
-Veículos infantis autorizados
+* Utilizar veículos infantis autorizados.
+* Ser transportado por responsáveis.
+* Utilizar veículos previamente aprovados pela Administração.
 
-Veículos comuns de adultos
+### Proibido
 
-Transporte acompanhado por responsáveis
+* Dirigir veículos comuns de adultos.
+* Utilizar motocicletas ou veículos de duas rodas.
+* Direção perigosa ou imprudente.
 
-Motocicletas e veículos de duas rodas
+#### Observações
 
-Veículos aprovados pela administração
+> Adultos não poderão utilizar veículos infantis ("Minis").
 
-Direção imprudente
-
-**Regras Adicionais**
-
-* Adultos não poderão utilizar veículos infantis ("Minis").
-* Toda condução deverá respeitar as normas da cidade.
+> Toda condução deverá respeitar integralmente o Código de Trânsito da cidade.
 
 ***
 
-### 🛡️ Locais e Segurança <a href="#locais-e-seguranca" id="locais-e-seguranca"></a>
+## 🛡️ Locais Restritos
 
-#### Áreas Restritas <a href="#areas-restritas" id="areas-restritas"></a>
+É proibido que personagens infantis frequentem:
 
-É proibido que crianças frequentem:
-
-* Guerras de facção.
-* Confrontos armados.
-* Operações policiais.
-* Locais com troca de tiros.
+* Guerras entre facções;
+* Confrontos armados;
+* Operações policiais;
+* Locais com troca de tiros;
 * Áreas consideradas de alto risco.
 
-#### Acompanhamento Obrigatório <a href="#acompanhamento-obrigatorio" id="acompanhamento-obrigatorio"></a>
+#### Acompanhamento Obrigatório
 
-Locais incompatíveis com a idade exigem a presença de um responsável maior de 18 anos.
+Sempre que a criança estiver em locais incompatíveis com sua idade, será obrigatória a presença de um responsável maior de 18 anos.
 
-> ⚠️ Durante assaltos ou situações de risco, a responsabilidade pela segurança da criança será dos responsáveis legais.
-
-**Assaltos**
-
-* É proibido iniciar assaltos quando houver crianças presentes na ação.
+> Durante assaltos ou situações de risco, a responsabilidade pela integridade da criança será integralmente dos responsáveis legais.
 
 ***
 
-### 🍺 Itens e Substâncias <a href="#itens-e-substancias" id="itens-e-substancias"></a>
+## 💰 Assaltos
 
-Proibido
-
-Bebidas alcoólicas
-
-Drogas ilícitas
-
-Energéticos
-
-Produtos destinados a maiores de idade
-
-Adrenalina
+É proibido iniciar qualquer ação de assalto quando houver crianças presentes no local da ocorrência.
 
 ***
 
-### 🔫 Itens Ilegais <a href="#itens-ilegais" id="itens-ilegais"></a>
+## 🍺 Itens e Substâncias
+
+É proibido que personagens infantis utilizem:
+
+* Bebidas alcoólicas;
+* Drogas ilícitas;
+* Energéticos;
+* Produtos destinados exclusivamente a maiores de idade;
+* Adrenalina.
+
+***
+
+## 🔫 Itens Ilegais
 
 É proibido portar:
 
-* Armas de fogo.
-* Armas brancas ilegais.
-* Algemas.
-* Tasers.
+* Armas de fogo;
+* Armas brancas ilegais;
+* Algemas;
+* Tasers;
 * Qualquer item relacionado à criminalidade.
 
 ***
 
-### 🚨 Atividades Ilegais <a href="#atividades-ilegais" id="atividades-ilegais"></a>
+## 🚨 Atividades Criminosas
 
-Personagens infantis não poderão participar de atividades criminosas.
+Personagens infantis **não poderão participar**, direta ou indiretamente, de qualquer atividade criminosa.
 
-**Ações Proibidas**
+### Ações Proibidas
 
-* Assaltos.
-* Roubos.
-* Furtos.
-* Sequestros.
-* Tráfico.
-* Participação em facções.
-* Loot em jogadores.
+* Assaltos;
+* Roubos;
+* Furtos;
+* Sequestros;
+* Tráfico;
+* Participação em facções;
+* Loot em jogadores;
 * Auxílio em atividades criminosas.
 
-> 🚫 É estritamente proibido matar personagens infantis sem contexto administrativo autorizado.
+> É estritamente proibido matar personagens infantis sem autorização administrativa e contexto previamente aprovado.
 
 ***
 
-### 💼 Sistema de Empregos <a href="#sistema-de-empregos" id="sistema-de-empregos"></a>
+## 💼 Sistema de Empregos
 
-#### Crianças (Menores de 14 Anos) <a href="#criancas-menores-de-14-anos" id="criancas-menores-de-14-anos"></a>
+### Crianças (Menores de 14 anos)
 
-Poderão atuar apenas como Jovem Aprendiz em empregos autorizados.
+Somente poderão atuar como **Jovem Aprendiz** em empregos autorizados.
 
-Empregos Permitidos
+#### Empregos Permitidos
 
-Cafeteria
-
-Pizzaria
-
-Outros aprovados pelo Jurídico
+* Cafeteria;
+* Pizzaria;
+* Outros estabelecimentos autorizados pelo Jurídico.
 
 ***
 
-#### Adolescentes (14 Anos ou Mais) <a href="#adolescentes-14-anos-ou-mais" id="adolescentes-14-anos-ou-mais"></a>
+### Adolescentes (14 anos ou mais)
 
-Poderão atuar como Jovem Aprendiz em funções legais autorizadas.
+Poderão exercer funções de **Jovem Aprendiz** em atividades legais autorizadas.
 
-Empregos Permitidos
+#### Empregos Permitidos
 
-Hospital
-
-Mecânica
-
-Cafeteria
-
-Pizzaria
-
-Outros aprovados pelo Jurídico
+* Hospital;
+* Mecânica;
+* Cafeteria;
+* Pizzaria;
+* Outros estabelecimentos autorizados pelo Jurídico.
 
 ***
 
-### 👮 Abordagem Policial <a href="#abordagem-policial" id="abordagem-policial"></a>
+## 👮 Abordagem Policial
 
-A polícia poderá realizar revistas em crianças e adolescentes quando a gravidade da ocorrência justificar a ação.
+A Polícia poderá realizar revista em crianças e adolescentes quando a gravidade da ocorrência justificar a ação.
 
-> ⚠️ Toda abordagem deverá seguir critérios de RP e proporcionalidade.
+> Toda abordagem deverá respeitar os princípios do Roleplay e da proporcionalidade.
 
 ***
 
-### 🎰 Bares e Cassinos <a href="#bares-e-cassinos" id="bares-e-cassinos"></a>
+## 🎰 Bares e Cassinos
 
-#### Permitido <a href="#permitido" id="permitido"></a>
+### Permitido
 
-* Frequentar bares acompanhado de um responsável.
-* Frequentar cassinos acompanhado de um responsável.
+* Frequentar bares acompanhado por um responsável.
+* Frequentar cassinos acompanhado por um responsável.
 
-#### Proibido <a href="#proibido" id="proibido"></a>
+### Proibido
 
-* Consumir bebidas alcoólicas.
-* Participar de jogos de azar.
+* Consumir bebidas alcoólicas;
+* Participar de jogos de azar;
 * Realizar apostas.
 
-**Restrição Permanente**
+#### Restrição Permanente
 
-> 🚫 A entrada no Bahamas permanece proibida para personagens infantis.
-
-***
-
-### 🚐 Sequestro de Crianças <a href="#sequestro-de-criancas" id="sequestro-de-criancas"></a>
-
-O sequestro de crianças será permitido exclusivamente durante guerras entre facções.
-
-**Regras Obrigatórias**
-
-* A integridade física da criança deverá ser preservada.
-* A integridade psicológica deverá ser preservada.
-* Não poderá haver tortura, abuso ou humilhação excessiva.
-
-Qualquer descumprimento poderá ser tratado como Dark RP.
+> A entrada no **Bahamas** permanece proibida para personagens infantis.
 
 ***
 
-### ⚖️ Advertências e Punições <a href="#a-dvertencias-e-punicoes" id="a-dvertencias-e-punicoes"></a>
+## 🚐 Sequestro de Crianças
 
-#### Infrações Graves <a href="#infracoes-graves" id="infracoes-graves"></a>
+O sequestro de personagens infantis será permitido **exclusivamente durante guerras entre facções**.
 
-Poderão gerar punições administrativas:
+### Regras Obrigatórias
 
-Infração
+* Preservar a integridade física da criança;
+* Preservar a integridade psicológica da criança;
+* É proibida qualquer forma de tortura, abuso ou humilhação excessiva.
 
-Fornecer itens ilegais para crianças
-
-Fornecer bebidas alcoólicas
-
-Fornecer produtos de cunho sexual
-
-Linguagem sexual próxima a crianças
-
-Conteúdo impróprio envolvendo personagens infantis
-
-Uso inadequado da skin infantil
+> O descumprimento destas regras poderá ser caracterizado como **Dark RP**.
 
 ***
 
-### 📌 Considerações Finais <a href="#consideracoes-finais" id="consideracoes-finais"></a>
+## ⚖️ Advertências e Punições
 
-* Cada situação será analisada individualmente pela Staff.
-* O objetivo destas regras é promover um ambiente saudável e coerente para o RP infantil.
-* A administração reserva-se o direito de remover a skin infantil em casos de abuso, má utilização ou descumprimento das regras.
-* O desconhecimento das regras não isenta o jogador de punições.
+As seguintes infrações poderão gerar punições administrativas:
 
-> ⚠️ O RP infantil deve priorizar a imersão, o respeito e a coerência acima de qualquer benefício em gameplay.
+| Fornecer itens ilegais para crianças                        |
+| ----------------------------------------------------------- |
+| Fornecer bebidas alcoólicas                                 |
+| Fornecer produtos de cunho sexual                           |
+| Utilizar linguagem sexual próxima de crianças               |
+| Produzir conteúdo impróprio envolvendo personagens infantis |
+| Utilizar a skin infantil de forma inadequada                |
+
+***
+
+## 📌 Considerações Finais
+
+* Cada situação será analisada individualmente pela Administração.
+* O objetivo destas regras é proporcionar um ambiente saudável, coerente e imersivo para o RP infantil.
+* A Administração poderá remover a skin infantil em casos de abuso, utilização indevida ou descumprimento destas regras.
+* O desconhecimento das regras **não isenta** o jogador de punições.
+
+> **O RP infantil deve sempre priorizar a imersão, o respeito e a coerência acima de qualquer vantagem em gameplay.**
