@@ -1,4 +1,16 @@
-# 🧒 REGRAS DE CRIANÇA
+---
+icon: child-dress
+---
+
+# REGRAS DE CRIANÇA
+
+* Qualquer jogador maior de 18 anos pode interpretar uma criança
+* É **obrigatório** solicitar aprovação via ticket antes de iniciar
+* ❌ Crianças **não podem** participar de situações de crime, violência ou conteúdo adulto
+* ❌ É proibido envolver personagens criança em RP sexual de qualquer natureza (ban permanente imediato)
+* ❌ Crianças não podem portar armas ou dirigir veículos (Somente carros-kids)
+* ✅ Crianças devem estar sempre acompanhadas de um responsável adulto no RP
+* ✅ O RP de criança deve ser leve, educativo e adequado à idade interpretada
 
 > As regras abaixo têm como objetivo garantir uma interpretação coerente, segura e imersiva para personagens infantis dentro da cidade.
 

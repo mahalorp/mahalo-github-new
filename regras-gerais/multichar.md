@@ -1,8 +1,12 @@
-# 🔀 Multichar
+---
+icon: person-rays
+---
+
+# Multichar
 
 O sistema Multichar permite que você tenha mais de um personagem na Mahalo.
 
----
+***
 
 ## O que é Multichar?
 
@@ -10,17 +14,17 @@ A possibilidade de criar e alternar entre **múltiplos personagens** na mesma co
 
 ## Quantos Personagens Posso Ter?
 
-- Jogadores comuns: **2 personagens**
-- Apoiadores (doadores): **3 personagens**
-- Staff: **até 4 personagens**
+* Jogadores comuns: **1 personagens**
+* Apoiadores (doadores): Até **3 personagens**
+* Staff: **até 4 personagens**
 
 ## Regras do Multichar
 
-- ❌ Personagens da mesma conta **não podem se conhecer** IC
-- ❌ É proibido transferir itens, dinheiro ou veículos entre seus próprios personagens
-- ❌ Não é permitido usar um personagem para espionar situações e passar informações para outro
-- ✅ Cada personagem deve ter uma história e identidade independentes
-- ✅ A troca de personagem só pode ser feita em locais seguros (casa, hotel)
+* ❌ Personagens da mesma conta **não podem se conhecer** IC
+* ❌ É proibido transferir itens, dinheiro ou veículos entre seus próprios personagens
+* ❌ Não é permitido usar um personagem para espionar situações e passar informações para outro
+* ✅ Cada personagem deve ter uma história e identidade independentes
+* ✅ A troca de personagem só pode ser feita em locais seguros (casa, hotel)
 
 ## Como Criar um Novo Personagem
 
@@ -33,6 +37,6 @@ A possibilidade de criar e alternar entre **múltiplos personagens** na mesma co
 
 A exclusão de personagem é **permanente** e irrecuperável. Pense bem antes de excluir!
 
----
+***
 
 > 🔀 O Multichar é uma ferramenta para enriquecer o RP — use com responsabilidade e criatividade!

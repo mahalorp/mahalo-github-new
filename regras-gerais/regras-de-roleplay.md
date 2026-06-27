@@ -1,4 +1,8 @@
-# 🎭 Regras de Roleplay
+---
+icon: face-awesome
+---
+
+# Regras de Roleplay
 
 ### IDADE MÍNIMA
 

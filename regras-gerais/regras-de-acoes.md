@@ -1,4 +1,8 @@
-# ⚡ Regras de Ações
+---
+icon: location-arrow-up
+---
+
+# Regras de Ações
 
 As ações de RP devem ser realizadas de forma coerente e justa para todos os envolvidos.
 

@@ -1,5 +1,5 @@
 ---
-icon: square-poll-horizontal
+icon: notebook
 ---
 
 # Glossário

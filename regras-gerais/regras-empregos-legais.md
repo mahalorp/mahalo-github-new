@@ -1,4 +1,8 @@
-# 💼 Regras Empregos Legais
+---
+icon: clipboard
+---
+
+# Regras Empregos Legais
 
 Os empregos legais são a principal fonte de renda inicial na Mahalo e devem ser exercidos com seriedade e comprometimento com o RP.
 

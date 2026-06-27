@@ -1,8 +1,12 @@
-# 📢 Regras de Denúncia
+---
+icon: list-dropdown
+---
+
+# Regras de Denúncia
 
 Saiba como reportar corretamente condutas que violam as regras da Mahalo.
 
----
+***
 
 ## Como Denunciar
 
@@ -13,28 +17,28 @@ Saiba como reportar corretamente condutas que violam as regras da Mahalo.
 
 ## O que Enviar
 
-- Vídeo da situação (preferencial)
-- Prints de chat (quando aplicável)
-- Nome do jogador denunciado
-- Data e horário aproximado do ocorrido
-- Descrição detalhada do que aconteceu
+* Vídeo da situação (preferencial)
+* Prints de chat (quando aplicável)
+* Nome do jogador denunciado
+* Data e horário aproximado do ocorrido
+* Descrição detalhada do que aconteceu
 
 ## Categorias de Ticket
 
-| Categoria | Quando usar |
-|-----------|-------------|
-| **Suporte Geral** | Dúvidas e problemas técnicos |
+| Categoria               | Quando usar                             |
+| ----------------------- | --------------------------------------- |
+| **Suporte Geral**       | Dúvidas e problemas técnicos            |
 | **Denúncia de Jogador** | Violação de regras por outros jogadores |
-| **Recurso de Punição** | Contestar uma punição recebida |
-| **VAR** | Revisão de situação de RP |
-| **Bug Report** | Reportar falhas no servidor |
+| **Recurso de Punição**  | Contestar uma punição recebida          |
+| **VAR**                 | Revisão de situação de RP               |
+| **Bug Report**          | Reportar falhas no servidor             |
 
 ## Prazos de Resposta
 
-- Denúncias são analisadas em até **72 horas**
-- Casos graves (ban, exploits) têm prioridade
-- Denúncias sem evidências suficientes serão arquivadas
+* Denúncias são analisadas em até **72 horas**
+* Casos graves (ban, exploits) têm prioridade
+* Denúncias sem evidências suficientes serão arquivadas
 
----
+***
 
 > 🛡️ Denunciar é contribuir para uma comunidade mais justa e divertida.
