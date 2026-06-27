@@ -2,7 +2,7 @@
 
 ## Regras Gerais
 
-* [🌺 Mahalo](README.md)
+* [Mahalo](README.md)
 * [Glossário](regras-gerais/glossario.md)
 * [📋 Regras Gerais](regras-gerais/regras-gerais.md)
 * [🎭 Regras de Roleplay](regras-gerais/regras-de-roleplay.md)
