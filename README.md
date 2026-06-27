@@ -1,3 +1,8 @@
+---
+coverY: -51.393442622950815
+coverHeight: 368
+---
+
 # 🌺 Mahalo
 
 A Mahalo é um projeto que nasceu há mais de **3 anos**. Desde o primeiro dia, nossa intenção nunca foi abrir uma cidade às pressas. Pelo contrário: escolhemos manter este projeto em desenvolvimento porque acreditávamos que o cenário de **FiveM** merecia mais do que promessas merecia um projeto sólido, planejado e construído com cuidado.
