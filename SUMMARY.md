@@ -1,9 +1,9 @@
-# Summary
+# Table of contents
 
 ## Regras Gerais
 
 * [🌺 Mahalo](README.md)
-* [📖 Glossário](regras-gerais/glossario.md)
+* [Glossário](regras-gerais/glossario.md)
 * [📋 Regras Gerais](regras-gerais/regras-gerais.md)
 * [🎭 Regras de Roleplay](regras-gerais/regras-de-roleplay.md)
 * [⚡ Regras de Ações](regras-gerais/regras-de-acoes.md)

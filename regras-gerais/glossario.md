@@ -1,4 +1,8 @@
-# 📖 Glossário
+---
+icon: square-poll-horizontal
+---
+
+# Glossário
 
 Aqui você encontra os principais termos utilizados na Mahalo.
 
