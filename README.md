@@ -1,16 +1,12 @@
 # 🌺 Mahalo
 
-A **Mahalo** traz mais de **4 anos de experiência no cenário de roleplay** sempre focando em **qualidade, inovação e comunidade**. Nossa cidade foi criada para oferecer uma experiência de RP imersiva, onde cada jogador pode construir sua própria história.
+A Mahalo não é apenas uma cidade, é um projeto idealizado há mais de **3 anos**, construído com dedicação, planejamento e constante evolução. Durante todo esse tempo, buscamos aperfeiçoar cada detalhe para oferecer uma experiência de roleplay que realmente atenda às expectativas da nossa comunidade.
 
-- Ambiente focado em **roleplay de qualidade**
-- **Staff experiente e presente** para manter a organização
-- **Eventos semanais** que movimentam a cidade
-- **Economia equilibrada** e sistemas otimizados
-- Liberdade para **criar, evoluir e desenvolver seu personagem**
+Nosso maior objetivo é criar um ambiente **familiar, acolhedor e conectado**, onde cada jogador possa se sentir em casa, desenvolver sua própria história e fazer parte de algo maior.
 
-Aqui, cada ação tem importância e cada história faz parte da construção da cidade.
+Mais do que sistemas e mecânicas, acreditamos que uma cidade é feita pelas pessoas que a constroem todos os dias. Por isso, valorizamos o respeito, a união e a qualidade do roleplay, proporcionando um espaço onde cada escolha tem significado e cada personagem deixa sua marca.
 
-✨ **Mahalo é onde o roleplay acontece de verdade.**
+O próprio nome **Mahalo**, que significa **"Obrigado"**, representa a essência do nosso projeto: gratidão por cada pessoa que escolhe fazer parte desta história e confiança de que, juntos, construiremos uma comunidade cada vez mais forte.
 
-Seja bem-vindo à cidade feita por quem vive o RP todos os dias.
-# mahalo-github-new
+✨ Seja bem-vindo à Mahalo.\
+Uma cidade criada com paixão, pensada para vocês e construída por quem acredita que o verdadeiro roleplay nasce da conexão entre as pessoas.
