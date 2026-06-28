@@ -42,4 +42,4 @@ Usar veículos aéreos para:
 
 ***
 
-> ✈️ O céu da Mahalo é de todos — use com responsabilidade!
+> ✈️ O céu da Mahalo é de todos use com responsabilidade!

@@ -12,7 +12,7 @@ Ao entrar na Mahalo, você concorda automaticamente com todos os termos abaixo.
 
 * Ao conectar no servidor pela primeira vez, você declara ter lido e aceito todas as regras
 * O desconhecimento das regras não isenta o jogador de punições
-* As regras podem ser atualizadas a qualquer momento — é responsabilidade do jogador se manter atualizado
+* As regras podem ser atualizadas a qualquer momento é responsabilidade do jogador se manter atualizado
 
 ## 2. Propriedade
 
