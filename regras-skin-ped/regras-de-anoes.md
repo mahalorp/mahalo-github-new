@@ -12,7 +12,7 @@ O RP de anão é permitido na Mahalo com algumas regras específicas.
 
 * O jogador deve solicitar a skin via ticket antes de utilizá-la
 * É necessário apresentar uma **história de background** para o personagem
-* A skin de anão deve ser usada de forma **consistente** — não é permitido alternar com skin normal
+* A skin de anão deve ser usada de forma **consistente** não é permitido alternar com skin normal
 
 ## Regras de Conduta
 
