@@ -23,7 +23,7 @@
 
 * [Regras de Gravidez](regras-skin-ped/regras-de-gravidez.md)
 * [Regras de Anões](regras-skin-ped/regras-de-anoes.md)
-* [REGRAS DE CRIANÇA](regras-skin-ped/regras-de-crianca.md)
+* [Regras de Criança](regras-skin-ped/regras-de-crianca.md)
 
 ## Regras Ilegal
 
