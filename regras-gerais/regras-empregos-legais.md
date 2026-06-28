@@ -33,11 +33,8 @@ Os empregos legais são a principal fonte de renda inicial na Mahalo e devem ser
 
 Empregos especiais que requerem processo seletivo:
 
-1. Abra um ticket no Discord
-2. Preencha o formulário de candidatura
-3. Aguarde contato da equipe responsável
-4. Realize a entrevista in-game ou via Discord
-5. Cumpra o período de experiência
+1. Procure algum responsavel para dar entrada no processo seletivo
+2. Faça o processo que lhe for instruido
 
 ***
 

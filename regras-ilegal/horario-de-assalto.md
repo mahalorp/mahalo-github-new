@@ -10,14 +10,13 @@ Os assaltos na Mahalo seguem uma grade de horários para garantir o equilíbrio 
 
 ## Grade de Horários
 
-| Tipo de Assalto             | Dias Permitidos       | Horário   |
-| --------------------------- | --------------------- | --------- |
-| 🏪 Assalto a Loja           | Segunda a Domingo     | 18h - 00h |
-| 🏦 Assalto a Banco Pequeno  | Terça, Quinta, Sábado | 20h - 23h |
-| 🏛️ Assalto a Banco Central | Sexta e Sábado        | 21h - 23h |
-| 🚐 Assalto a Carro-Forte    | Quarta e Sábado       | 19h - 22h |
+| Tipo de Assalto             | Dias Permitidos   | Horário                  |
+| --------------------------- | ----------------- | ------------------------ |
+| 🏪 Ações pequenas           | Segunda a Domingo | Fazer chamado a policia. |
+| 🏦 Ações medias             | Segunda a Domingo | Marcar no discord Geral  |
+| 🏛️ Assalto a Banco Central | Segunda a Domingo | Marcar no discord Geral  |
 
-> Todos os horários são no fuso horário de **Brasília (BRT)**
+> Boa Sorte, que vença a melhor equipe!
 
 ## Regras de Horário
 
