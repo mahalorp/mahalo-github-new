@@ -10,7 +10,7 @@ Saiba como reportar corretamente condutas que violam as regras da Mahalo.
 
 ## Como Denunciar
 
-1. **Nunca resolva no chat** — discussões OOC in-game são proibidas
+1. **Nunca resolva no chat** discussões OOC in-game são proibidas
 2. Acesse o **Discord da Mahalo**
 3. Abra um **ticket** na categoria correta
 4. Envie as evidências (vídeo, print, logs)
