@@ -1,7 +1,28 @@
 ---
 icon: city
-cover: .gitbook/assets/ChatGPT Image 27 de jun. de 2026, 20_51_13.png
-coverY: -28.55812220566319
+cover: .gitbook/assets/BannerMahalo.png
+coverY: 31.817436661698963
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Mahalo
