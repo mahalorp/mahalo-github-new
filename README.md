@@ -1,7 +1,7 @@
 ---
 icon: city
-cover: .gitbook/assets/BannerMahalo.png
-coverY: 31.817436661698963
+cover: .gitbook/assets/BannerMahalo_HERO_2000x1000.png
+coverY: 0
 layout:
   width: default
   cover:
